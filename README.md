@@ -1,2 +1,2 @@
 # Analysis01
-This Repository Contains a data set and the steps to analyze the data set with the help of Python using the libraries of.
+This project presents a structured data analysis using Python and Google Colab. It involves data cleaning and exploratory analysis to uncover insights and trends. The notebook serves as a reproducible workflow for analyzing real-world datasets and is ideal for showcasing data handling and analytical thinking.
